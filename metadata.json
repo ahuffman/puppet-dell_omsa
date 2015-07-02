@@ -1,0 +1,14 @@
+{
+  "name": "ahuffman-dell_omsa",
+  "version": "0.1.0",
+  "author": "ahuffman",
+  "summary": "Installs Dell Repos, manages Firewall ports, sets drac passwords,  installs omsa, manages services",
+  "license": "Apache 2.0",
+  "source": "http://github.com/ahuffman/puppet-dell_omsa/",
+  "project_page": "http://github.com/ahuffman/puppet-dell_omsa/",
+  "issues_url": "http://github.com/ahuffman/puppet-dell_omsa/",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
